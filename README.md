@@ -1,1 +1,1 @@
-# friut_fireblight
+# fruit_fireblight
